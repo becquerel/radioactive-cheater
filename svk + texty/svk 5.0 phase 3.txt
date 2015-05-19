@@ -1,0 +1,2 @@
+Tato databáze není novìjší než vaše stávající databáze, proto nebude nahrána.
+Táto databáza nieje novšia ako vaša aktuálna databáza, preto nebude nahraná

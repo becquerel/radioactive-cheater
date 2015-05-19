@@ -1,0 +1,42 @@
+Registraèní jméno do záhlaví
+Vıchozí nastavení
+Obnovit
+Tato volba zruší veškeré nastavení programu (vèetnì registrace). Opravdu chcete pokraèovat?
+Zrušit nastavení
+Pùvodní konfigurace byla obnovena
+Nyní je tøeba restartovat Radioactive Cheater
+Nyní bude Radioactive Cheater restartován
+Databáze (mnoné èíslo)
+1000 poloek
+
+Aktualizace kompletní databáze
+Nahrát novou databázi
+Pøejete si nahrát novou databázi ?
+Dotaz
+Databáze byla úspìšnì nahrána
+Databáze byla úspìšnì nahrazena
+Tato databáze obsahuje x poloek, vaše stávající databáze obsahuje y poloek. Pøejete si ji nahradit ?
+Tohle nepùjde...
+Staení aktualizace z internetu
+
+Chybìjící aktualizaèní soubory
+Kterou databázi aktualizovat ?
+Stav stahovaného souboru
+stáhnout všechny databáze
+nestahovat ádnou databázi
+Nahrát update z disku
+Nahraje update ze souboru na disku
+Staení updatu z internetu
+Zkontroluje a stáhne updaty
+Nahraje novou databázi
+
+Není tøeba...
+Vaše stávající databáze v sobì ji tento update obsahuje, proto není tøeba ho pouívat.
+Pøejete si nahrát update databáze X èíslo Y obsahující Z novıch poloek ?
+Update byl úspìštì nahrán
+
+Update není moné stáhnout (problém s pøipojením k internetu)
+Chyba...
+Zjišuji informace ...
+Všechny soubory byly úspìšnì staeny
+Nelze navázat spojení se serverem

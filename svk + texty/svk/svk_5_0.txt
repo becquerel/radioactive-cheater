@@ -1,0 +1,24 @@
+Nyní je tøeba restartovat Radioactive Cheater
+Teraz je potrebné reštartova Radioactive Cheater
+
+Nyní bude Radioactive Cheater restartován
+Teraz bude Radioactive Cheater reštartovanı
+
+Databáze (mnoné èíslo)
+Databázy
+
+Aktualizace kompletní databáze
+Aktualizácia kompletnej databázy
+
+stáhnout všechny databáze
+stiahnu všetky databázy
+
+nestahovat ádnou databázi
+nesahova iadnu databázu
+
+
+
+
+
+Nepodaøilo se navázat spojení se serverem
+Nedá sa nadviaza spojenie so serverom (vhodnejsie by mozno bolo "Nepodarilo sa nadviaza spojenie so serverom")

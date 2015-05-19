@@ -1,0 +1,31 @@
+Vytiskne celı cheat
+Vytiskne oznaèenou èást cheatu / textu
+Vybírat náhodnı skin
+Vıchozí databáze
+Automaticky kontrolovat aktualizace
+K pouití tohoto skinu je potøeba restartovat Radioactive Cheater
+Databáze cheatù a návodù je pravdìpodobnì zastaralá. Poøjete si ji nyní stáhnout ???
+
+
+
+-Vytlaèí celı cheat
+-Vytlaèí oznaèenú èas cheatu / textu
+-Vybera náhodnı skín
+-Vıchodzia databáza
+-Automaticky kontrolova aktualizácie
+-K pouitiu tohto skínu je potrebné reštartova Radioactive Cheater
+-Databáza cheatov a návodov je pravdepodobne zastaralá. Prajete si ju stiahnu?
+
+
+Tisk èásti textu
+Spolupracující sajty
+Hledání na internetu / internetovıch serverech
+
+-Tlaè èasti textu 
+-Spolupracujúce sajty 
+-H¾adanie na internete / internetovıch serveroch
+
+
+
+Kontrola aktualizace
+Zjistí údaje o nejnovìjší aktualizaci

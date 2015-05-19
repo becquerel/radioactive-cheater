@@ -1,0 +1,33 @@
+; This file is maintained by HCW. Do not modify this file directly.
+
+; toto je muj help
+
+[OPTIONS]
+;COMPRESS=NO
+COMPRESS=12 Hall Zeck
+ERRORLOG=ERR.OUT
+LCID=0x405 0x0 0x0 ; Èeština
+REPORT=Yes
+CONTENTS=OBSAH
+TITLE=Radioactive Cheater
+COPYRIGHT=(c) Radioactive Software
+CITATION=(c) Radioactive Software
+HLP=cheater.hlp
+
+[FILES]
+Obsah.rtf
+
+[MAP]
+OBSAH        1
+práce        2
+funkce       3
+registrace   4
+tisk         5
+aktualizace  6
+dotazník     7
+skiny        8
+fulltext     9
+
+[CONFIG]
+BrowseButtons()
+;context numbers mapujeme z context retezcu pou‘ije se v HELPContext v DELPHI
